@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Rodrigo ,Im Frontend developer</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo, I'm a Frontend Developer</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://www.linkedin.com/in/rodrigo-garro-b69b27327/"  />
+<img align="right" height="150" src="https://www.linkedin.com/in/rodrigo-garro-b69b27327/" />
 
 ###
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="srogarro@gmail.com" target="_blank">
+  <a href="mailto:srogarro@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-garro-b69b27327/" target="_blank">
@@ -56,3 +56,4 @@
 </div>
 
 ###
+
